@@ -84,13 +84,7 @@
     <None Include="Resources\background.gif" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Daft Punk - Around the World.mp3" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Around.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\regard.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
